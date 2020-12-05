@@ -7,4 +7,4 @@
 
 bug snapshot:
 
-![bug snapshot](https://user-images.githubusercontent.com/17380627/101245290-be9b0180-3746-11eb-9c83-441da0fa4619.png)
+![bug snapshot](https://user-images.githubusercontent.com/17380627/101258784-c4511100-375f-11eb-8485-60088246f93d.png)
