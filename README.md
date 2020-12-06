@@ -1,8 +1,10 @@
-
 1. `npm i`
 2. `npm run dev`
 3. open `http://localhost:8080/` 
 4. open Chrome devtool see the `console`
+
+You will see the global chunk array `window["webpackChunkwebpack_bug"].length === 196608`,
+but any item in it is the some chunk.
 
 
 bug snapshot:
